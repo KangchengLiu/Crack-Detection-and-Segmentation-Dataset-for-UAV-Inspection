@@ -15,7 +15,7 @@ Here I have summarized different crack datasets and constructed a benchmark data
 You can download the dataset from [the link](https://drive.google.com/drive/folders/196kNa3q3EeaW6ryrk1RtUCDnB0mPz2r2?usp=sharing)
 # Results
 
-Some results using feature pyrimid based convolutional neural networks to do segmentation are shown below. The Guided fiter was utilized to do post processing.
+Some results using feature pyrimid based convolutional neural networks to do segmentation are shown below. The Guided Filter was utilized to do post processing.
 
 # Citation
 
