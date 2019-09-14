@@ -9,14 +9,16 @@ Here I have summarized different crack datasets and constructed a benchmark data
  # Overview
  Concrete structures such as bridge play an important role in ground transportation networks. While it is very labor intensive and dangerous for human to do the crack inspection. However, traditionally, concrete structure inspections are conducted manually by human operators with heavy and expensive mechanical equipment. It is logistically challenging, costly, and dangerous, especially when inspecting the substructure and superstructure in harsh environments that are hard and dangerous to be accessed by human operators. Therefore, it is very meaningful and significant for us to develop a fully autonomous intelligent unmanned aerial system for inspecting large-scale concrete structures and detecting the defects such as cracks. Most importantly, a significant module for UAV intelligent inspection system is to develop computer vision algorithms for processing images captured and detecting cracks and structural damages.
  
- #Dataset
+ # Dataset
  We have summarized different crack detection and segmentation dataset and established a benchmark dataset. The link is as follow and feel free to download it.
  When your are doing training based on the provided dataset, feel free to do the pre-processing such as cropping, resizing, rotating, normalizing and fliping to preprocess and enhance the dataset as the requirement.
  
-#Results
+# Results
+
 Some results using feature pyrimid based convolutional neural networks to do segmentation are shown below. The Guided fiter was utilized to do post processing.
 
-#Citation
+# Citation
+
 Please cite the following papers if you are using these datasets.
 
 CRACK500:
@@ -59,7 +61,7 @@ CFD:
   publisher={IEEE}
 }
 
-AEL: 
+AELLT: 
 >@article{amhaz2016automatic,
   title={Automatic Crack Detection on Two-Dimensional Pavement Images: An Algorithm Based on Minimal Path Selection.},
   author={Amhaz, Rabih and Chambon, Sylvie and Idier, J{\'e}r{\^o}me and Baltazart, Vincent}
@@ -77,7 +79,7 @@ cracktree200:
   publisher={Elsevier}
 }
 
-@article{shi2016automatic,
+>@article{shi2016automatic,
   title={Automatic road crack detection using random structured forests},
   author={Shi, Yong and Cui, Limeng and Qi, Zhiquan and Meng, Fan and Chen, Zhensong},
   journal={IEEE Transactions on Intelligent Transportation Systems},
@@ -88,7 +90,7 @@ cracktree200:
   publisher={IEEE}
 }
 
-@inproceedings{cui2015pavement,
+>@inproceedings{cui2015pavement,
   title={Pavement Distress Detection Using Random Decision Forests},
   author={Cui, Limeng and Qi, Zhiquan and Chen, Zhensong and Meng, Fan and Shi, Yong},
   booktitle={International Conference on Data Science},
@@ -97,7 +99,7 @@ cracktree200:
   organization={Springer}
 }
 
-@article{liu2019deepcrack,
+>@article{liu2019deepcrack,
   title={DeepCrack: A Deep Hierarchical Feature Learning Architecture for Crack Segmentation},
   author={Liu, Yahui and Yao, Jian and Lu, Xiaohu and Xie, Renping and Li, Li},
   journal={Neurocomputing},
@@ -107,7 +109,7 @@ cracktree200:
   doi={10.1016/j.neucom.2019.01.036}
 }
 
-@inproceedings{yang2017deep,
+>@inproceedings{yang2017deep,
   title={Deep concrete inspection using unmanned aerial vehicle towards cssc database},
   author={Yang, Liang and Li, Bing and Li, Wei and Liu, Zhaoming and Yang, Guoyong and Xiao, Jizhong},
   booktitle={Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems},
