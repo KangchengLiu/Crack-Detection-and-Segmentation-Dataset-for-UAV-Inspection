@@ -12,7 +12,7 @@ Here I have summarized different crack datasets and constructed a benchmark data
  # Dataset
  We have summarized different crack detection and segmentation dataset and established a benchmark dataset. The link is as follow and feel free to download it.
  When your are doing training based on the provided dataset, feel free to do the pre-processing such as cropping, resizing, rotating, normalizing and fliping to preprocess and enhance the dataset as the requirement.
-You can download the dataset from [the link](https://drive.google.com/drive/folders/196kNa3q3EeaW6ryrk1RtUCDnB0mPz2r2?usp=sharing)
+You can download the dataset from [the link](https://drive.google.com/drive/folders/196kNa3q3EeaW6ryrk1RtUCDnB0mPz2r2?usp=sharing).
 # Results
 
 Some results using feature pyrimid based convolutional neural networks to do segmentation are shown below. The Guided Filter was utilized to do post processing.
