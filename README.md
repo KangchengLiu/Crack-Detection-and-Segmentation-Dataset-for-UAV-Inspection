@@ -15,7 +15,7 @@ Here I have summarized different crack datasets and constructed a benchmark data
 You can download the dataset from [the link](https://drive.google.com/drive/folders/196kNa3q3EeaW6ryrk1RtUCDnB0mPz2r2?usp=sharing).
 # Results
 The crack detection result of sliding window approach is shown as follow:
-![Represent](./images/sliding window approach.png)
+![Represent](./images/sw_approach.png)
 Some results using feature pyrimid based convolutional neural networks to do segmentation are shown below. The Guided Filter was utilized to do post processing.
 ![Represent](./images/crack_image.png)
 Following are some typical detection results in some challenging circumstances with various cracks and noises.
