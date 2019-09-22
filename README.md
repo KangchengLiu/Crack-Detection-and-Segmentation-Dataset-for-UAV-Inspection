@@ -16,7 +16,8 @@ You can download the dataset from [the link](https://drive.google.com/drive/fold
 # Results
 
 Some results using feature pyrimid based convolutional neural networks to do segmentation are shown below. The Guided Filter was utilized to do post processing.
-
+![Represent](./images/crack_image.png)
+![Represent](./images/crack_typical_result.png)
 # Citation
 
 Please cite the following papers if you are using these datasets.
