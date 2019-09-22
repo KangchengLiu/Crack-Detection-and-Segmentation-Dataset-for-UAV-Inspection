@@ -19,7 +19,7 @@ The crack detection result of sliding window approach is shown as follow:
 Some results using feature pyrimid based convolutional neural networks to do segmentation are shown below. The Guided Filter was utilized to do post processing.
 ![Represent](./images/crack_image.png)
 Following are some typical detection results in some challenging circumstances with various cracks and noises.
-![Represent](./images/crack_typical_result.png)
+![Represent](./images/crack_typical_results.png)
 # Citation
 
 Please cite the following papers if you are using these datasets.
