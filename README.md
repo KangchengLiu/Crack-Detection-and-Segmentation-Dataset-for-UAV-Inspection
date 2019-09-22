@@ -17,6 +17,7 @@ You can download the dataset from [the link](https://drive.google.com/drive/fold
 
 Some results using feature pyrimid based convolutional neural networks to do segmentation are shown below. The Guided Filter was utilized to do post processing.
 ![Represent](./images/crack_image.png)
+Following are some typical detection results in some challenging circumstances with various cracks and noises.
 ![Represent](./images/crack_typical_result.png)
 # Citation
 
