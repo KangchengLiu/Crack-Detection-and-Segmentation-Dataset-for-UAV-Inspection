@@ -24,24 +24,7 @@ Following are some typical detection results in some challenging circumstances w
 
 Please cite the following papers if you are using these datasets.
 
-CRACK500:
->@inproceedings{zhang2016road,
-  title={Road crack detection using deep convolutional neural network},
-  author={Zhang, Lei and Yang, Fan and Zhang, Yimin Daniel and Zhu, Ying Julie},
-  booktitle={Image Processing (ICIP), 2016 IEEE International Conference on},
-  pages={3708--3712},
-  year={2016},
-  organization={IEEE}
-}' .
-
->@article{yang2019feature,
-  title={Feature Pyramid and Hierarchical Boosting Network for Pavement Crack Detection},
-  author={Yang, Fan and Zhang, Lei and Yu, Sijia and Prokhorov, Danil and Mei, Xue and Ling, Haibin},
-  journal={arXiv preprint arXiv:1901.06340},
-  year={2019}
-}
-
-GAPs384: 
+GAPs: 
 >@inproceedings{eisenbach2017how,
   title={How to Get Pavement Distress Detection Ready for Deep Learning? A Systematic Approach.},
   author={Eisenbach, Markus and Stricker, Ronny and Seichter, Daniel and Amende, Karl and Debes, Klaus
@@ -50,6 +33,16 @@ GAPs384:
   booktitle={International Joint Conference on Neural Networks (IJCNN)},
   pages={2039--2047},
   year={2017}
+}
+
+CRACK500:
+>@inproceedings{zhang2016road,
+  title={Road crack detection using deep convolutional neural network},
+  author={Zhang, Lei and Yang, Fan and Zhang, Yimin Daniel and Zhu, Ying Julie},
+  booktitle={Image Processing (ICIP), 2016 IEEE International Conference on},
+  pages={3708--3712},
+  year={2016},
+  organization={IEEE}
 }
 
 CFD: 
@@ -80,6 +73,13 @@ cracktree200:
   pages={227--238},
   year={2012},
   publisher={Elsevier}
+}
+
+>@article{yang2019feature,
+  title={Feature Pyramid and Hierarchical Boosting Network for Pavement Crack Detection},
+  author={Yang, Fan and Zhang, Lei and Yu, Sijia and Prokhorov, Danil and Mei, Xue and Ling, Haibin},
+  journal={arXiv preprint arXiv:1901.06340},
+  year={2019}
 }
 
 >@article{shi2016automatic,
