@@ -14,7 +14,7 @@ Here I have summarized different crack datasets and constructed a benchmark data
  When your are doing training based on the provided dataset, feel free to do the pre-processing such as cropping, resizing, rotating, normalizing and fliping to preprocess and enhance the dataset as the requirement.
 You can download the dataset from [the link](https://drive.google.com/open?id=1RMf0GYXn7Mq1s9STGFG5iByavTr05SjF).
 # Results
-The crack detection result of sliding window approach is shown as follow:
+The crack detection results of sliding window approach are shown as follow:
 ![Represent](./images/sliding_window_results.png)
 Some results using feature pyrimid based convolutional neural networks to do segmentation are shown below. The Guided Filter was utilized to do post processing.
 ![Represent](./images/crack_image.png)
