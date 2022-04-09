@@ -20,11 +20,11 @@ Some results using feature pyrimid based convolutional neural networks to do seg
 ![Represent](./images/crack_image.png)
 Following are some typical detection results in some challenging circumstances with various cracks and noises.
 ![Represent](./images/crack_typical_results.png)
-# Citation
+<!-- # Citation
 
-Please cite the following papers if you are using our dataset.
+Please cite the following papers if you are using our dataset. -->
 
-GAPs: 
+<!-- GAPs: 
 >@inproceedings{eisenbach2017how,
   title={How to Get Pavement Distress Detection Ready for Deep Learning? A Systematic Approach.},
   author={Eisenbach, Markus and Stricker, Ronny and Seichter, Daniel and Amende, Karl and Debes, Klaus
@@ -121,3 +121,4 @@ And other related papers:
   pages={24--8},
   year={2017}
 }
+ -->
