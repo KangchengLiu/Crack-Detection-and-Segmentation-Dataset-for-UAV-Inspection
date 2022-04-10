@@ -1,5 +1,5 @@
 # Crack-Detection-and-Segmentation-Dataset-for-UAV-Inspections
-Here I have summarized different crack datasets and constructed a benchmark dataset for crack detection and segmentation. And this is the dataset that can be utilized for both crack detection and segmentation and it will be beneficial for further research in this field. The dataset for crack segmentation contains 11,298 crack images annotated with fine-grained pixel-level labels. It can also be used as the source dataset in performing unsupervised domain adaptive crack segmentation because of its comprehensive and versatile property. 
+Here I have summarized different crack datasets and constructed a benchmark dataset for crack detection and segmentation. And this is the dataset that can be utilized for both crack detection and segmentation and it will be beneficial for further research in this field. Comprehensive and versatile infrastructural crack types are supported in the dataset, including the pavements, bridges, and buildings cracks. The dataset for crack segmentation contains 11,298 crack images annotated with fine-grained pixel-level labels. It can also be used as the source dataset in performing unsupervised domain adaptive crack segmentation because of its comprehensive and versatile property. 
 # Contents
  - [Overview](#Overview)
  - [Dataset Download](#Dataset)
