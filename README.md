@@ -20,3 +20,5 @@ Some results using feature pyrimid based convolutional neural networks to do seg
 ![Represent](./images/crack_image.png)
 Following are some typical detection results in some challenging circumstances with various cracks and noises.
 ![Represent](./images/crack_typical_results.png)
+
+Comprehensive and versatile infrastructural crack types are supported in the dataset, including the pavements, briges, and buildings cracks, when solving the problem of domain adaptive crack recognition, the proposed database can be regarded as the source dataset with label and the trained model can be transferred to the unlabelled test set using unpsupervised domain adaptive recognition methods, which is a significant research topic about how to improve the generalization and domain adaptation capacity of current deep learning frameworks.
