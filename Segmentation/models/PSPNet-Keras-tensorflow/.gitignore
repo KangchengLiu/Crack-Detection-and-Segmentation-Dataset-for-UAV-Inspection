@@ -1,0 +1,8 @@
+*.npy
+*.pyc
+*.png
+*.caffemodel
+*.prototxt
+*.h5
+*.json
+output/
