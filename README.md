@@ -22,3 +22,26 @@ Some results using feature pyramid-based convolutional neural networks to do seg
 Following are some typical detection results in some challenging circumstances with various cracks and noises.
 ![Represent](./images/crack_typical_results.png)
 Comprehensive and versatile infrastructural crack types are supported in the dataset, including the pavements, bridges, and buildings cracks. When solving the problem of domain adaptive crack recognition, the proposed database can be regarded as the source dataset with labels. And using unsupervised domain adaptive recognition methods, the trained model can be transferred to the unlabelled test set with a great performance. Also, unsupervised domain adaptation is a very significant research topic about how to improve the generalization and domain adaptation capacity of current deep learning frameworks for practical visual recognition applications.
+
+
+### Citations
+```
+
+@inproceedings{liu2019deep,
+  title={Deep Learning Based Automatic Crack Detection and Segmentation for Unmanned Aerial Vehicle Inspections},
+  author={Liu, Kangcheng and Han, Xiaodong and Chen, Ben M},
+  booktitle={2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)},
+  number={https://ieeexplore.ieee.org/document/896},
+  pages={381--387},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{liu2022industrial,
+  title={Industrial uav-based unsupervised domain adaptive crack recognitions: From system setups to real-site infrastructural inspections},
+  author={Liu, Kangcheng and Chen, Ben M},
+  journal={IEEE Transactions on Industrial Electronics},
+  year={2022},
+  publisher={IEEE}
+}
+```
