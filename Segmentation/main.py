@@ -409,7 +409,7 @@ if args.mode == "train":
             #                                               target_height=args.crop_height, target_width=args.crop_width).eval(session=sess)
             # ***** THIS CAUSES A MEMORY LEAK AS NEW TENSORS KEEP GETTING CREATED *****
 
-            # memory()
+            # memory()ffff
             
             if args.batch_size == 1:
                 input_image_batch = input_image_batch[0]
